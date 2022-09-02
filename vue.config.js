@@ -8,7 +8,6 @@ function resolve(dir) {
 
 const name = defaultSettings.title || 'Go Web Mini' // page title
 
-
 // If your port is set to 80,
 // use administrator privileges to execute the command line.
 // For example, Mac: sudo npm run
