@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Go Web Mini',
+  title: 'ldap-admin(测试环境)',
 
   /**
    * @type {boolean} true | false
@@ -23,7 +23,7 @@ module.exports = {
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar
    */
-  sidebarLogo: false,
+  sidebarLogo: true,
 
   /**
    * @type {string | array} 'production' | ['production', 'development']

@@ -24,8 +24,8 @@ export default {
   },
   data() {
     return {
-      title: 'Go Web Mini',
-      logo: require('@/assets/sidebar-logo/webmini.png')
+      title: 'ldap-admin(测试环境)',
+      logo: require('@/assets/sidebar-logo/logo_img.png')
     }
   }
 }

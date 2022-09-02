@@ -3,7 +3,7 @@
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" autocomplete="on" label-position="left">
 
       <div class="title-container">
-        <h3 class="title">Go-Ldap-Admin </h3>
+        <h3 class="title">yzs-ldap-admin-fat(测试环境)</h3>
       </div>
 
       <el-form-item prop="username">
