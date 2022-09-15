@@ -24,7 +24,7 @@ export default {
   },
   data() {
     return {
-      title: 'ldap-admin(测试环境)',
+      title: 'ldap-admin(正式环境)',
       logo: require('@/assets/sidebar-logo/logo_img.png')
     }
   }

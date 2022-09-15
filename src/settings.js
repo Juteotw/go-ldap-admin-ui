@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'ldap-admin(测试环境)',
+  title: 'ldap-admin(正式环境)',
 
   /**
    * @type {boolean} true | false
