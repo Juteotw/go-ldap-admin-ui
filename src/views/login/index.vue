@@ -228,6 +228,7 @@ $cursor: #fff;
       text-align: right;
       font-size: 18px;
       margin-bottom:10px;
+      display: none;
     }
     .login-btn{
         width: calc(100% - 40px);
